@@ -42,15 +42,15 @@ Diketahui 3 buah bilangan bil1,bil2,bil3, akan dicari nilai yang terbesar.
 * Selesai
 
 # Flowchart
-# ![Github Logo](flowchart.jpg) <h2>
+# ![Github Logo](flowchart.jpg)
 
 
 # Hasil eksekusi program input 3 bilangan mencari bilangan terbesar
-# ![GitHub Logo](17.png) <h2>
-# ![GitHub Logo](18.png) <h2>
+# ![GitHub Logo](17.png)
+# ![GitHub Logo](18.png)
 
 
 # Kondisi Inputan data
-# ![GitHub Logo](14.png) <h2>
-# ![GitHub Logo](15.png) <h2)
-# ![GitHub Logo](16.png) <h2)
+# ![GitHub Logo](14.png)
+# ![GitHub Logo](15.png)
+# ![GitHub Logo](16.png)
