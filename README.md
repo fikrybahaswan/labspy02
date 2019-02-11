@@ -6,7 +6,7 @@ syntax:
 if kondisi:
           statement_true
 contoh program input 3 bilangan mencari bilangan terbesar menggunakan statement "if"
-# ![Github Logo](11,png) <h2>
+# ![Github Logo](11.png) <h2>
 
 Pernyataan if ... else
 syntax:
